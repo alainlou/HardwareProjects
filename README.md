@@ -1,6 +1,6 @@
 # HardwareProjects
 
-This repository contains hardware projects that I have or am currently working on.
+This repository contains hardware projects that I've completed or am currently working on.
 
 Skills I've learned:
 * Soldering/desoldering (with desoldering braid and pump)
