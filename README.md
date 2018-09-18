@@ -9,6 +9,6 @@ Skills I've learned:
 * Cutting metal with hand shear and vertical band saw
 
 Projects:
-* [LM386 Circuit](https://github.com/alainlou/HardwareProjects/tree/master/LM386%20Amp%20Circuit)
+**[LM386 Circuit](https://github.com/alainlou/HardwareProjects/tree/master/LM386%20Amp%20Circuit)**
 
 ![Look at those exposed leads!](https://github.com/alainlou/HardwareProjects/blob/master/LM386%20Amp%20Circuit/IMG_1.jpg)
