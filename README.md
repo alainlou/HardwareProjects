@@ -10,3 +10,4 @@ Skills I've learned:
 
 Projects:
 * [LM386 Circuit](https://github.com/alainlou/HardwareProjects/tree/master/LM386%20Amp%20Circuit)
+![Look at those exposed leads!](https://github.com/alainlou/HardwareProjects/blob/master/LM386%20Amp%20Circuit/IMG_1.jpg)
