@@ -1,0 +1,6 @@
+# KiCad Libraries from 3rd Parties
+/KiCad/vendor
+
+# KiCad Temporary and Backup Files
+*.bak
+*.kicad_pcb-bak
