@@ -4,3 +4,7 @@
 # KiCad Temporary and Backup Files
 *.bak
 *.kicad_pcb-bak
+
+# Vim Temporary Files
+*.md~
+*.un~
