@@ -11,3 +11,5 @@ Skills I've learned:
 Projects:
 
 **[LM386 Circuit](https://github.com/alainlou/HardwareProjects/tree/master/LM386%20Amp%20Circuit)**
+
+**[Custom Arduino](https://github.com/alainlou/HardwareProjects/tree/master/KiCad/Custom%20Arduino)**
