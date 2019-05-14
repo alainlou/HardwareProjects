@@ -1,15 +1,7 @@
-# HardwareProjects
+# Texas Instruments LM386 Amplifier Circuit
 
-This repository contains hardware projects that I've completed or am currently working on.
+This project involved using a cheap solid-state audio amplifier chip to create an amplifier circuit intended to accompany my cheap electric guitar. The circuit contained resistors, capacitors (both non-polar and polar), a logarithmic potentiometer (for input volume control) and adaptors/plugs. A full spec sheet/schematic can be found here: http://www.ti.com/lit/ds/symlink/lm386.pdf. The circuit was based off of figures 12 and 14.
 
-Skills I've learned:
-* Soldering/desoldering (with desoldering braid and pump)
-* Electrical wiring management (keeping it nice and clean)
-* Cutting metal with hand shear and vertical band saw
-* CAD design (KiCad): schematic, PCB layout, managing footprints
+**I ended up overdriving the speaker and blowing it. In ![VID_1](https://raw.githubusercontent.com/alainlou/HardwareProjects/master/LM386%20Amp%20Circuit/VID_1.mp4) it worked pretty well, but as you can see in ![VID_2](https://raw.githubusercontent.com/alainlou/HardwareProjects/master/LM386%20Amp%20Circuit/VID_2.mp4) and ![VID_3](https://raw.githubusercontent.com/alainlou/HardwareProjects/master/LM386%20Amp%20Circuit/VID_3.mp4), there is significant distortion after around 5 minutes of operation. Maybe when I build a high quality tube amp in the future I'll make sure not to mess things up lol.**
 
-Projects:
-
-**[LM386 Circuit](https://github.com/alainlou/HardwareProjects/tree/master/LM386%20Amp%20Circuit)**
-
-**[Custom Arduino](https://github.com/alainlou/HardwareProjects/tree/master/KiCad/Custom%20Arduino)**
+![Look at those exposed leads!](https://github.com/alainlou/HardwareProjects/blob/master/LM386%20Amp%20Circuit/IMG_1.jpg)
